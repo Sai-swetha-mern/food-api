@@ -1,0 +1,12 @@
+body{
+    background-image: url(foodrecipe.pgn.jpg)
+}
+.text-white{
+    background-image: linear-gradient(to left,rgb(214, 53, 9),#5291d8); 
+}
+.btn{
+    background-image: linear-gradient(to left,rgb(189, 43, 104),rgb(20, 21, 19));  
+}
+.card{
+    background-image: linear-gradient(to left,rgb(214, 53, 9),#8b8832);
+}
